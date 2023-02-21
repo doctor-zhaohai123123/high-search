@@ -1,7 +1,0 @@
-import './widget-input'
-import './widget-input-number'
-import './widget-date'
-import './widget-select'
-import './widget-radio'
-import './widget-checkbox'
-import './widget-tree'
