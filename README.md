@@ -78,7 +78,7 @@ import {
   DisplayModelEnum,
   OperationEnum,
   Model,
-} from '@shopex/high-search'
+} from '@doctorhai/high-search'
 
 const labelFilds = [{
   label: '赵海',
@@ -356,7 +356,7 @@ import {
   DisplayModelEnum,
   OperationEnum,
   Model,
-} from '@shopex/high-search'
+} from '@doctorhai/high-search'
 
 const fields = [
   {

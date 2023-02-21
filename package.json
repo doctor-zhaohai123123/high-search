@@ -1,5 +1,5 @@
 {
-  "name": "@shopex/high-search",
+  "name": "@doctorhai/high-search",
   "version": "1.0.17",
   "private": false,
   "main": "./lib/high.umd.min.js",
