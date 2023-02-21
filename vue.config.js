@@ -17,11 +17,11 @@ module.exports = {
         "@": path.resolve(__dirname, "src"),
       },
     },
-    externals: IS_PROD
-      ? {
-        vue: 'vue',
-        'element-plus': 'element-plus'
-      }
-      : {}
+    // externals: IS_PROD
+    //   ? {
+    //     vue: 'vue',
+    //     'element-plus': 'element-plus'
+    //   }
+    //   : {}
   }
 };
